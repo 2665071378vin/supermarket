@@ -18,6 +18,8 @@
         <module>market-web</module>
         <module>market-eureka</module>
         <module>market-common</module>
+        <module>market-common-db</module>
+        <module>market-service-api/market-service-goods-api</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
