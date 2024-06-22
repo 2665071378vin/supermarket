@@ -17,6 +17,7 @@
         <module>market-service-api</module>
         <module>market-web</module>
         <module>market-eureka</module>
+        <module>market-common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
