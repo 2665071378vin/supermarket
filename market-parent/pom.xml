@@ -49,6 +49,7 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.61</version>
         </dependency>-->
+             <!-- test -->
         <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger2 -->
         <dependency>
             <groupId>io.springfox</groupId>
